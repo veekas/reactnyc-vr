@@ -12,7 +12,7 @@ export default class sample_init extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-            Welcome to React 360
+            hello nbc universal!
           </Text>
         </View>
       </View>
